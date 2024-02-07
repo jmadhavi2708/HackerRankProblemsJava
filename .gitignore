@@ -1,5 +1,5 @@
 /bin/
-/.classpath/
+.classpath/
 /.settings
 /src/module-info.java
 
